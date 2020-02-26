@@ -1,3 +1,3 @@
-module github.com/gdtrivedi/hello
+module github.com/gdtrivedi/gomodules/hello
 
 go 1.13
